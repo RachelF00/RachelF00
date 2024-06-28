@@ -1,4 +1,4 @@
-### Hi, I'm Rui Fang (Rachel) 👋
+### Hi, I'm Rui 👋
 
 - 🍻 M.Eng in Computer Engineering at 🇨🇦 [UBC](https://www.ubc.ca)
 - 🌱 Java/Python/C#
