@@ -7,6 +7,5 @@
 - 📫 Email: ruifang2000@foxmail.com
 - 📁 LinkedIn: https://www.linkedin.com/in/rui-fang-762935207/
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachelF00"/>
 
